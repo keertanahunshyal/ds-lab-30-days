@@ -7,3 +7,8 @@ Day 2:
 - Program: GCD using recursion
 - Concept: Recursion, Euclidean algorithm
 - Learned how function calls itself
+
+Day 3:
+- Program: Binomial Coefficient (nCr)
+- Concept: Recursion
+- Learned how problems break into smaller parts
