@@ -12,3 +12,9 @@ Day 3:
 - Program: Binomial Coefficient (nCr)
 - Concept: Recursion
 - Learned how problems break into smaller parts
+
+
+Day 4:
+- Program: Fibonacci using recursion
+- Concept: Recursive calls (n-1 + n-2)
+- Learned how function calls grow rapidly
