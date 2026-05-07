@@ -23,3 +23,8 @@ Day 5:
 - Program: Tower of Hanoi
 - Concept: Recursion (divide problem into smaller steps)
 - Learned how recursive steps work in sequence
+
+Day 6:
+- Program: Count lines in a file
+- Concept: File handling in C
+- Learned how to read files using fopen() and fgetc()
