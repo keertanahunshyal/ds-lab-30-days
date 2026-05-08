@@ -28,3 +28,8 @@ Day 6:
 - Program: Count lines in a file
 - Concept: File handling in C
 - Learned how to read files using fopen() and fgetc()
+
+Day 7:
+- Program: Linear Search
+- Concept: Searching in arrays
+- Learned how elements are checked one by one
