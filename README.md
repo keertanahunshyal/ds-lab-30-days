@@ -33,3 +33,8 @@ Day 7:
 - Program: Linear Search
 - Concept: Searching in arrays
 - Learned how elements are checked one by one
+
+Day 8:
+- Program: Binary Search
+- Concept: Divide and conquer
+- Learned searching in sorted arrays efficiently
