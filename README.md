@@ -38,3 +38,8 @@ Day 8:
 - Program: Binary Search
 - Concept: Divide and conquer
 - Learned searching in sorted arrays efficiently
+
+Day 9:
+- Program: Character count in file
+- Concept: File handling using fopen() and fgetc()
+- Learned reading characters until EOF
