@@ -43,3 +43,8 @@ Day 9:
 - Program: Character count in file
 - Concept: File handling using fopen() and fgetc()
 - Learned reading characters until EOF
+
+Day 10:
+- Program: Copy contents from one file to another
+- Concept: File handling using fgetc() and fputc()
+- Learned reading and writing files
