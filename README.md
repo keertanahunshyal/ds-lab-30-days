@@ -48,3 +48,8 @@ Day 10:
 - Program: Copy contents from one file to another
 - Concept: File handling using fgetc() and fputc()
 - Learned reading and writing files
+
+Day 11:
+- Program: Bubble Sort
+- Concept: Sorting using swapping
+- Learned how larger elements move to the end
